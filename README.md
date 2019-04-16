@@ -24,3 +24,7 @@ can be on any web server or even local
 file system.
 
 ## How To Contribute
+
+## Copyright
+
+Copyright 2019 Git.Training
