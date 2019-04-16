@@ -11,6 +11,8 @@ This is example is to show different parts
 of the Git repository and various commands 
 using a web project.
 
+Agregar una línea para volver a basar el ejemplo
+
 ## Purpose
 
 As stated above, the main purpose is to 
