@@ -34,4 +34,4 @@ review.
 
 ## Copyright
 
-Copyright 2019 Git.Training
+Copyright 2019 Git.Training. All right reserved.
