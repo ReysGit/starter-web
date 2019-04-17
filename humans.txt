@@ -1,15 +1,31 @@
 # humanstxt.org/
+
 # The humans responsible & technology colophon
+
 
 # TEAM
 
-    Reys  reys@git.training   @reys 
+
+
+    Reys
+    reys@git.training
+    @reys 
+
+
 
 # THANKS
 
-    All my students <name>
+    
+
+    All my students 
+    Please leave a review if you like this course!
+
+
 
 # TECHNOLOGY COLOPHON
 
+
+
     HTML5, CSS3
+
     jQuery, Modernizr
